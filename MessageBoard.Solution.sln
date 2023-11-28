@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MessageBoardApi", "MessageBoardApi", "{B55C4B87-B4C6-4350-BF77-DEA1AE966069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBoardApi", "MessageBoardApi\MessageBoardApi\MessageBoardApi.csproj", "{4250949C-FCF5-4325-98D5-E7102287B4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = PostsSolution
+		{4250949C-FCF5-4325-98D5-E7102287B4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4250949C-FCF5-4325-98D5-E7102287B4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4250949C-FCF5-4325-98D5-E7102287B4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4250949C-FCF5-4325-98D5-E7102287B4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4250949C-FCF5-4325-98D5-E7102287B4EC} = {B55C4B87-B4C6-4350-BF77-DEA1AE966069}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = PostsSolution
+		SolutionGuid = {DB169206-C107-403A-8076-7F8D9A917077}
+	EndGlobalSection
+EndGlobal
